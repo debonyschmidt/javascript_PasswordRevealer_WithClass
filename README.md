@@ -1,5 +1,7 @@
 # Password Revealer
 
+https://debonyschmidt.github.io/javascript_PasswordRevealer_WithClass/
+
 Features
 * Show / Hide Password;
 * Verify password strength:
@@ -12,5 +14,5 @@ Technologies used:
 * CSS
 * JavaScript Classes
 
-App demo
-https://debonyschmidt.github.io/javascript_PasswordRevealer_WithClass/
+![Demo](demo.gif)
+
